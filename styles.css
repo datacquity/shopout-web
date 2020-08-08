@@ -18,7 +18,7 @@ body {
 	min-height: 200vh;
 	height: auto;
 	background: url("./infographic.png");
-	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+	background-position: top;
 }
